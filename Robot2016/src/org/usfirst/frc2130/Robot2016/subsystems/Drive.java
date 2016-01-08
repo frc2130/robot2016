@@ -12,8 +12,6 @@
 package org.usfirst.frc2130.Robot2016.subsystems;
 
 import org.usfirst.frc2130.Robot2016.RobotMap;
-import org.usfirst.frc2130.Robot2016.commands.*;
-
 import edu.wpi.first.wpilibj.command.Subsystem;
 import edu.wpi.first.wpilibj.*;
 

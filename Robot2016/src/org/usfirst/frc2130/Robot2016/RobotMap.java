@@ -13,7 +13,6 @@ package org.usfirst.frc2130.Robot2016;
     
 
 import edu.wpi.first.wpilibj.livewindow.LiveWindow;
-import java.util.Vector;
 import edu.wpi.first.wpilibj.*;
 
 /**
